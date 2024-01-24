@@ -1,0 +1,290 @@
+type,id,latitude,longitude,name
+node,27288796,-37.8843792,145.1455722,Waverley Private Hospital
+node,206200909,-35.0511403,142.8808925,Manangatang Hospital
+node,262777337,-37.8526149,145.1649491,Peter James Centre
+node,429184771,-37.9208228,145.1224428,Jessie McPherson Private Hospital
+node,489359423,-37.0185154,145.1381959,Seymour Hospital
+node,597972749,-37.9380359,145.2127203,Emergency
+node,600761782,-36.7329561,146.9659735,Bright Hospital
+node,687479687,-38.4860745,142.9764969,Timboon District Healthcare Service
+node,704426805,-38.2393865,142.9020584,Terang & Mortlake Health Service
+node,832508110,-38.5454422,143.9804248,Lorne Community Hospital
+node,885893500,-37.8651567,144.8387644,Unknown
+node,945024594,-37.4200877,143.8917602,Creswick Hospital and Nursing Home
+node,1257803645,-37.5995317,144.2224358,Ballan District Health and Care
+node,1279003446,-37.7558954,145.0609462,Mercy Hospital for Women
+node,1313697291,-37.8568969,145.0940058,Delmont Private Hospital
+node,1518791350,-37.9763185,146.784229,Heyfield Hospital
+node,1556902795,-37.833742,145.1657139,Unknown
+node,1901522484,-37.558366,149.7534583,Mallacoota Medical Centre
+node,2037737699,-38.4600065,145.2328124,Grossard Court Home
+node,2059452529,-37.7994568,144.9564192,Royal Melbourne Hospital
+node,2375823214,-37.8843032,144.7324904,Boardwalk Health MedicalCentre
+node,2405949093,-37.9219043,145.1206698,Monash Surgical Private
+node,2458004387,-37.7233945,144.9475073,Dorset Rehabilitation Centre
+node,2470481080,-37.9215323,145.1193962,Monash surgical private
+node,2611190987,-38.4494851,145.2372508,Unknown
+node,2678679360,-37.7568145,144.9717135,Brunswick Private Hospital
+node,3167261112,-37.6843343,144.9131458,Broadmeadows Hospital
+node,3790049233,-38.021958,145.954129,Neerim District Soldiers Memorial Hospital
+node,3818420288,-38.1379457,141.624074,Heywood Rural Health
+node,3902455806,-37.723615,144.8065555,Keilor Downs Surgery
+node,4214963285,-37.0519115,144.2123435,Mt Alexander Hospital
+node,4215016840,-36.315573,145.0421803,Kyabram Hospital
+node,4246233623,-37.9386663,145.2131512,The Valley Private Hospital
+node,4524199980,-37.9752194,145.1859273,Chandler Road Medical Centre
+node,4712754127,-37.7999274,144.9562153,Victorian Comprehensive Cancer Centre
+node,4712755317,-37.8003879,144.9567852,Peter MacCallum Cancer Centre
+node,4780137423,-37.7663129,144.9658061,Unknown
+node,5127953776,-37.9523063,145.1773168,Davell Lodge
+node,5215342570,-37.9676778,145.1738309,Noble Manor Aged Care
+node,5302929934,-38.2238248,145.0419,The Bays Hospital
+node,5326446022,-36.7492359,144.2801905,Emergency Department
+node,5453073744,-36.1987616,147.9030593,"Upper Murray Health & Community Services, Corryong"
+node,5819905796,-37.8774755,145.0241358,Orthodontist
+node,6797577951,-36.4499902,142.0244485,Wimmera Health Care
+node,7068030974,-37.8168201,144.9940109,Unknown
+node,8072155250,-36.3629086,145.405138,Emergency Ward
+node,9576622181,-37.7565429,145.351376,Yarra Ranges Health
+node,9962857372,-37.8440747,145.2491055,Knox Day Hospital
+node,10185268719,-37.9208967,145.1202487,Monash house
+node,11041628116,-37.7873942,145.1328204,Doncaster Private Hospital
+way,4754494,-37.9200317,145.1240614,"Monash Medical Centre, Clayton Campus"
+way,4787055,-37.8069112,145.2543839,Maroondah Hospital
+way,5179320,-37.7986429,144.9556144,The Royal Melbourne Hospital
+way,8655735,-37.8148988,145.1192395,Epworth Eastern Private Hospital
+way,8655737,-37.8136201,145.118406,Box Hill Hospital
+way,9923714,-37.754276,144.9588422,John Fawkner Private Hospital
+way,19692048,-37.8870949,144.6979243,Werribee Mercy Hospital
+way,24443980,-36.992834,144.063668,Maldon Hospital
+way,24530691,-37.806832,144.974734,St Vincent's Hospital
+way,24595717,-37.7566052,145.0589139,Austin Hospital
+way,24690740,-37.7587979,144.8174425,Sunshine Hospital
+way,25520531,-38.3628832,144.8849086,Rosebud Hospital
+way,25583774,-37.7934267,144.9499297,Royal Children's Hospital
+way,26037242,-37.7485656,144.8853992,Essendon Private Hospital
+way,26807304,-37.0521752,144.2122531,Castlemaine Health
+way,26830083,-37.78921,145.0123249,Thomas Embling Hospital
+way,27164568,-36.3637143,145.4046626,Goulburn Valley Health (Shepparton)
+way,27704724,-37.8115078,144.9774149,Eye and Ear on the Park
+way,27877701,-38.1510173,145.1288442,Frankston Hospital
+way,28135555,-37.8989403,145.3144687,Angliss Hospital
+way,28222442,-37.808403,145.0527738,St George's Health Service
+way,28738920,-37.9559492,145.0784929,Kingston Centre
+way,28969758,-37.8332194,145.1556104,Bellbird Private Hospital
+way,29548387,-37.8171818,144.9930382,Epworth Richmond Hospital
+way,30409532,-38.152119,144.3655917,Barwon Health - University Hospital Geelong
+way,30929255,-37.9763627,145.2180015,Dandenong Hospital
+way,30930361,-38.1509093,144.3640222,University Hospital Geelong - Building B
+way,30967824,-37.7544339,145.0476241,Heidelberg Repatriation Hospital
+way,31249152,-37.8045742,145.015744,Caritas Christi Hospice
+way,32920232,-37.8551083,144.9986594,The Avenue Hospital
+way,32920650,-37.8828977,145.0173669,Caulfield Hospital
+way,33298249,-37.7919567,144.8873484,Western Hospital
+way,33479872,-37.861782,145.0334329,Cabrini Hospital
+way,33765043,-37.653152,145.0139408,The Northern Hospital
+way,34406728,-37.8486081,145.2252814,Wantirna Health
+way,34587543,-37.8695224,145.0032963,Masada Private Hospital
+way,34804621,-37.8980962,145.1604517,The Victorian Rehabilitation Centre
+way,36024967,-37.8148469,144.9989455,The Melbourne Clinic
+way,37519748,-37.7779502,144.9478187,Royal Melbourne Hospital - Royal Park Campus
+way,37520334,-37.7806303,144.9473943,Orygen Youth Health
+way,38518848,-37.8494683,145.228066,Knox Private Hospital
+way,39627063,-36.8553079,143.7354601,Dunolly District Hospital
+way,39798989,-37.8076843,144.9760724,St Vincents Private Hospital Fitzroy
+way,42156312,-37.5594311,143.8464896,Ballarat Base Hospital
+way,42156313,-37.5575179,143.8461714,St John of God Hospital
+way,42744189,-37.6912917,145.0620371,Northpark Private Hospital
+way,43419834,-37.8156878,144.9874394,Epworth Cliveden
+way,47528828,-38.1574327,145.1692688,Unknown
+way,48255597,-37.9386832,145.2129698,The Valley Private Hospital
+way,48849606,-38.0856449,144.3568033,Barwon Health North
+way,49671384,-38.1197673,144.3365597,McKellar Centre
+way,50814298,-36.4391099,145.2254892,Goulburn Valley Health (Tatura)
+way,51329555,-37.3372263,144.1452929,Daylesford Hospital and Nursing Home
+way,51487548,-36.3592127,145.4109254,Shepparton Private Hospital
+way,52673674,-36.1318512,146.8792483,Wodonga Regional Health Service
+way,53143332,-36.3666946,144.6972727,Rochester and Elmore District Health Service
+way,54237422,-36.348926,146.3125365,Wangaratta Private Hospital
+way,54238205,-36.5549959,145.9944956,Benalla and District Memorial Hospital
+way,54329621,-36.75982,145.5694044,Euroa Health
+way,55687003,-36.3105348,146.8457247,Yackandandah Bush Nursing Hospital
+way,55687287,-36.3491879,146.6911349,Beechworth Health Service
+way,55770420,-36.0548627,145.2047542,Nathalia District Hospital
+way,55770489,-36.1000331,145.4435729,Numurkah District Health Service
+way,56019615,-37.2135471,145.4308687,Yea and District Memorial Hospital
+way,56191265,-37.1949719,145.7166014,Alexandra District Health
+way,56191549,-36.5876225,145.0085271,Waranga Memorial Hospital (Goulburn Valley Health)
+way,57903063,-37.763531,145.0310364,North Eastern Rehabilitation Centre
+way,58187331,-37.7982724,144.9571117,Melbourne Private Hospital
+way,58404174,-37.5532312,143.8450993,Nazareth House Aged Care
+way,58974175,-37.2547667,144.4698525,Kyneton District Health Service
+way,59525615,-37.9118012,144.9911812,Brighton Cabrini
+way,62344619,-37.7989136,144.9550081,Royal Women's Hospital
+way,62356732,-38.0449153,145.3477591,Casey Hospital
+way,64613757,-36.5879123,145.0084967,Warranga Hospital
+way,67145045,-37.8114049,145.2437941,Ringwood Private Hospital
+way,74688930,-38.1516245,144.3578584,St John of God Hospital
+way,89532698,-38.1823884,144.39339,Geelong Clinic
+way,92031905,-37.2786493,142.9328222,East Grampians Health Service
+way,94670969,-37.7895278,145.023268,Royal Talbot Rehabilitation Centre
+way,96668840,-36.7127994,142.2088921,Wimmera Base Hospital
+way,97923439,-37.9207641,145.0638995,Monash Medical Centre Moorabbin
+way,99998610,-37.7546344,145.0609121,Warringal Private Hospital
+way,103943339,-37.0575825,146.0861213,Mansfield District Hospital
+way,107640692,-36.2133741,147.1835489,Tallangatta Health Service
+way,112554668,-37.756879,145.0593209,Olivia Newton-John Cancer and Wellness Centre
+way,116778899,-37.0593531,142.7814653,Stawell District Hospital
+way,120493258,-37.8669157,145.0607088,Malvern Private Hospital
+way,120623418,-38.1089016,147.0809089,Gippsland Base Hospital
+way,126552820,-37.5635116,143.8426697,Queen Elizabeth Centre
+way,127478931,-37.85557,145.2688589,The Melbourne Eastern Private Hospital
+way,131476925,-38.2186793,146.4721033,Latrobe Regional Hospital
+way,132510713,-38.4876263,145.9504979,Leongatha Memorial Hospital
+way,135642318,-38.157646,145.1689877,Peninsula Private Hospital
+way,140637129,-38.2393505,142.9020499,Terang & Mortlake Health Services
+way,140642845,-38.3324466,143.0758189,Cobden Hospital
+way,141913324,-38.1813029,144.3385468,Barwon Health - Community Rehabilitation Centre
+way,141913570,-38.1892604,144.326035,Belmont Community Health Centre
+way,143665654,-38.3036793,145.189635,The Bays Hospital
+way,149637251,-37.5408439,143.832199,Ballarat Day Procedural Centre
+way,153513681,-37.8527443,145.1645738,Unknown
+way,158029744,-38.1731361,145.1493226,Golf Links Road Rehabilitation Centre
+way,158308079,-38.2304515,145.0410907,The Mornington Centre
+way,162347888,-38.1726046,144.3955008,Barwon Health - Newcomb
+way,164675865,-38.2006794,145.4842578,Koo Wee Rup Hospital
+way,166549401,-37.8313765,147.6077027,Bairnsdale Regional Health Service
+way,178259147,-36.1383484,144.7475568,Echuca Regional Health
+way,178735795,-37.3019393,144.9581572,Kilmore & District Hospital
+way,179411627,-36.7618366,144.2635971,St John of God Bendigo Hospital
+way,182807929,-37.9608788,145.018102,Sandringham & District Memorial Hospital
+way,188745684,-37.7369881,142.0310146,Hamilton Base Hospital
+way,190582877,-35.7238648,143.9178256,Kerang District Health
+way,190697775,-37.8478799,145.1140729,Medical Centre
+way,192849484,-36.5719833,143.8737725,Inglewood Hospital
+way,192884557,-37.4311502,143.3824179,Beaufort Hospital
+way,197277666,-36.3666367,142.9763509,East Wimmera Health Service - Donald Campus
+way,197451936,-38.7538618,143.6640055,Otway Health & Community Services Apollo Bay
+way,197853012,-37.5901747,141.3923568,Casterton Memorial Hospital
+way,200384051,-37.5636617,149.151655,Cann Valley Bush Nursing Centre
+way,200882123,-38.6048803,145.5878939,Wonthaggi Medical Centre
+way,213482233,-36.9255596,144.708717,Heathcote Hospital
+way,218426176,-38.3715271,142.4791594,St John of God Hospital
+way,219503952,-37.7020906,148.4654221,Orbost Regional Health
+way,219506349,-37.9609588,146.9837554,Mafra District Hospital
+way,219509937,-38.2154042,146.4186882,Maryvale Private Hospital
+way,219759856,-38.5572842,146.6781974,Yarram and District Health Service
+way,219760833,-38.6589781,146.2066291,South Gippsland Hospital
+way,219893484,-38.6082884,145.5810851,Wonthaggi Hospital
+way,220078647,-37.6468481,145.5289892,Healesville & District Hospital
+way,220094117,-36.7434327,147.1698301,Alpine Health [Mount Beauty]
+way,220229825,-35.6820249,142.6653918,Woomelang & District Bush Nursing Centre
+way,220413058,-35.5005726,142.8578057,Sea Lake & District Health Service
+way,220463642,-35.9802129,142.9158769,East Wimmera Health Service (Birchip Campus)
+way,220738911,-35.9038922,141.9953713,Rainbow Bush Nursing Hospital
+way,221179743,-37.5449333,142.7459647,East Grampians Health Service
+way,221447439,-38.1134128,145.2811056,Cranbourne Integrated Care Centre
+way,221802620,-36.6365522,142.6319211,Rupanyup Hospital & Nursing Home
+way,222307236,-36.4633352,142.5917725,Community Health Centre
+way,222413475,-36.6198007,142.4707724,Murtoa Community Health Centre
+way,222622253,-35.7320215,142.366548,Rural Northwest Health Hopetoun
+way,222882730,-37.8096448,144.9832424,East Melbourne Specialist Day Hospital
+way,222882734,-37.8094605,144.9823363,Epworth Freemasons
+way,223101843,-38.3800614,142.4729942,Warrnambool Base Hospital
+way,223482326,-37.8090201,144.9763018,Royal Victorian Eye & Ear Hospital
+way,226170038,-36.1991271,147.9027828,Corryong Hospital
+way,226969414,-36.0784881,143.2341181,Wycheproof Hospital
+way,228776740,-36.2523238,142.3818904,Rural Northwest Health Warracknabeal Campus
+way,230226038,-35.9382726,142.4216616,Rural Northwest Health Beulah Campus
+way,232322242,-37.6495529,145.0092869,Epping Private Hospital
+way,232630255,-36.5542331,146.7287677,Myrtleford Memorial Hospital
+way,237931110,-37.7232499,144.9477122,Dorset Private Hospital
+way,238150175,-34.5841361,142.7814959,Robinvale District Health Services
+way,245023786,-37.6842068,143.3675052,Skipton Hospital
+way,245398973,-37.6846139,144.9122158,Broadmeadows Health Services
+way,255432030,-38.4494658,145.2371718,Bass Coast Community Health
+way,256149913,-36.1414052,141.9846467,Jeparit Hospital
+way,257761520,-37.7174134,144.9972479,Reservoir Private Hospital
+way,258244752,-37.8104805,145.1947515,Mitcham Private Hospital
+way,265723966,-37.4205108,143.8920283,Creswick Hospital and Nursing Home
+way,265910010,-37.8461529,144.9825885,Alfred Hospital
+way,266067397,-38.2431107,143.9857983,Winchelsea Hospital
+way,272720512,-37.8160051,144.9925006,Epworth Rehabilitation
+way,276434644,-37.7931868,144.8858737,Western Private Hospital
+way,288191361,-37.6779418,144.4335569,Bacchus Marsh & Melton Regional Hospital
+way,288404912,-37.6874106,144.5581184,Melton Health
+way,290512590,-37.8065263,145.0236936,St Vincent's Private Hospital Kew
+way,293187632,-37.9242465,141.2754502,Dartmoor & District Bush Nursing Centre
+way,295344938,-34.1862443,142.1430602,Mildura Base Public Hospital
+way,297312580,-36.1387214,146.876716,Murray Valley Private Hospital
+way,298932579,-38.1531882,145.1558477,St John Of God Frankston Rehabilitation Hospital
+way,300745775,-37.386382,144.3277083,Trentham Aged Care Hostel
+way,302399578,-37.9662383,145.1920132,South Eastern Private Hospital
+way,306963576,-37.8111881,144.9777173,St Vincents on the Park
+way,309527369,-36.0118521,146.0065935,Yarrawonga Hospital
+way,311852621,-37.5957885,144.919516,Craigieburn Health Service
+way,317070811,-37.7016085,145.0555902,Bundoora Extended Care Centre
+way,320493071,-36.714911,141.4833686,Goroke Community Health Centre
+way,328660783,-37.8173592,145.1210359,Sexual Health Victoria
+way,329374268,-38.1737894,145.9281489,West Gippsland Hospital
+way,330039069,-36.6095617,143.2468538,East Wimmera Health Service St Arnaud Campus
+way,330040789,-36.2683933,143.3524959,East Wimmera Health Service - Charlton Campus
+way,342028767,-37.0982657,147.597229,Omeo District Health
+way,351040236,-36.3542232,146.3131755,Northeast Health Wangaratta
+way,352050532,-36.7510755,144.2807102,Anne Caudle Campus
+way,376320463,-37.8280503,145.104643,BlueCross Broughtonlea
+way,377682365,-35.9157383,145.6507258,Cobram District Hospital
+way,389781737,-37.9908387,145.0725043,Como Private Hospital
+way,400977080,-37.8217033,145.0228479,Epworth Hawthorn
+way,403000168,-36.7330363,146.9660291,Bright District Hospital & Health Services
+way,421754844,-36.3155336,145.0423672,Kyabram Hospital
+way,426328412,-37.8861135,145.0092029,Cabrini Rehabilitation - Glen Huntly
+way,426339014,-37.8848433,145.0103836,Cabrini Rehabilitation - Hopetoun Road
+way,430754098,-38.3412731,143.5828381,Colac Hospital
+way,435140411,-37.754257,144.958928,John Fawkner Private Hospital
+way,435140412,-37.7540879,144.9590938,John Fawkner Private Hospital
+way,435140414,-37.7543099,144.9585262,John Fawkner Private Hospital
+way,440702532,-37.9186315,145.1214795,Sir John Monash Private Hospital
+way,450185203,-38.3411647,141.6055578,Portland District Hospital
+way,474103843,-35.0744335,142.3125486,Ouyen Hospital
+way,477798846,-37.7510259,145.7052691,Warburton Hospital
+way,480675917,-37.7159482,145.044581,LaTrobe University Podiatry Clinic
+way,481480684,-36.334103,141.6558135,West Wimmera Health Service
+way,481494062,-35.3404822,143.5562221,Swan Hill District Health
+way,483020532,-37.9358992,145.0509009,Holmesglen Private Hospital
+way,494418420,-37.9702786,145.2132527,Saint John of God
+way,511921065,-37.8878943,144.7022004,St Vincent's Private Hospital Werribee
+way,511921069,-37.8865835,144.7014367,Wyndham Private Medical Centre
+way,545775020,-37.8634159,144.8923841,Williamstown Hospital
+way,551537848,-36.7491263,144.281255,Bendigo Health
+way,562158800,-37.9194124,145.123559,Monash Children's Hospital
+way,606038923,-37.6041005,141.685943,Coleraine Hospital
+way,615520995,-36.7621968,144.2615474,Bendigo Day Surgery
+way,622687520,-38.0451795,145.3443914,Unknown
+way,631993572,-38.2247714,145.0493429,Beleura Private Hospital
+way,665503968,-37.9426777,145.0033614,Linacre Private Hospital
+way,709867400,-37.8488256,145.1220633,Unknown
+way,725232147,-37.9130448,145.139492,Unknown
+way,847382591,-38.1378177,141.6242342,Unknown
+way,852230687,-38.3814122,142.2271986,Moyne Health
+way,866035797,-36.3636384,145.4064908,Psychiatric ward
+way,875934629,-36.7188915,144.2509915,Unknown
+way,894881008,-36.1117788,143.7273499,Boort District Health
+way,903540987,-35.8002454,144.2149088,Cohuna District Hospital
+way,974861664,-37.0183175,145.1392414,Seymour Hospital
+way,983072159,-37.79249,145.3184779,Mooroolbark Residential Aged Care Facility
+way,987544205,-37.8582155,145.1996514,Vermont Private Hospital
+way,1010493960,-38.1546964,145.1330459,Frankston Private Hospital
+way,1014120833,-37.6494642,145.0095274,Unknown
+way,1024143049,-37.7897205,145.1715281,Donvale Rehabilitation Hospital
+way,1031857292,-37.8462394,145.0544834,Epworth Camberwell
+way,1057051180,-37.0353015,141.2891656,Edenhope and District Memorial Hospital
+way,1113180120,-36.381404,141.2460378,Kaniava Hospital
+way,1159318064,-38.1026363,147.1289852,Unknown
+way,1167905350,-34.1848421,142.1457019,Mildura Health Private Hospital
+relation,2170880,-37.7164983,145.044287,La Trobe University Medical Centre
+relation,2170881,-37.7159645,145.0445826,La Trobe Private Hospital
+relation,2223496,-38.2371404,143.1379434,South West Healthcare - Camperdown Campus
+relation,11017712,-37.812296,144.984391,St Vincent's Private Hospital East Melbourne
+relation,15618280,-38.4518364,145.241041,Phillip Island Health Hub
+relation,16340387,-37.8110509,144.9841976,Epworth Freemasons

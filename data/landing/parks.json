@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Yarra Ranges National Park",
+        "latitude": "-37.6828294",
+        "longitude": "145.9787274"
+    },
+    {
+        "title": "Wyperfeld National Park",
+        "latitude": "-35.5850648",
+        "longitude": "142.0520184"
+    },
+    {
+        "title": "Wilsons Promontory National Park",
+        "latitude": "-39.0270745",
+        "longitude": "146.333818"
+    },
+    {
+        "title": "Werribee Gorge State Park",
+        "latitude": "-37.6631118",
+        "longitude": "144.3631754"
+    },
+    {
+        "title": "Warrandyte State Park",
+        "latitude": "-37.7351067",
+        "longitude": "145.2044881"
+    },
+    {
+        "title": "Warby-Ovens National Park",
+        "latitude": "-36.3265068",
+        "longitude": "146.2370535"
+    },
+    {
+        "title": "The Lakes National Park",
+        "latitude": "-37.9858778",
+        "longitude": "147.6722422"
+    },
+    {
+        "title": "Terrick Terrick National Park",
+        "latitude": "-36.1738445",
+        "longitude": "144.2270215"
+    },
+    {
+        "title": "Tarra-Bulga National Park",
+        "latitude": "-38.4352834",
+        "longitude": "146.5784666"
+    },
+    {
+        "title": "Snowy River National Park",
+        "latitude": "-37.4610248",
+        "longitude": "148.3041942"
+    },
+    {
+        "title": "Reef Hills State Park",
+        "latitude": "-36.6179395",
+        "longitude": "145.9315058"
+    },
+    {
+        "title": "Port Campbell National Park",
+        "latitude": "-38.6445019",
+        "longitude": "143.0607731"
+    },
+    {
+        "title": "Point Nepean National Park",
+        "latitude": "-38.3186917",
+        "longitude": "144.70347"
+    },
+    {
+        "title": "Paddys Ranges State Park",
+        "latitude": "-37.095151",
+        "longitude": "143.6881449"
+    },
+    {
+        "title": "Organ Pipes National Park",
+        "latitude": "-37.6674193",
+        "longitude": "144.7657415"
+    },
+    {
+        "title": "Murray &#8211; Sunset National Park",
+        "latitude": "-35.0452891",
+        "longitude": "141.7661516"
+    },
+    {
+        "title": "Mount Worth State Park",
+        "latitude": "-38.2815035",
+        "longitude": "146.0096437"
+    },
+    {
+        "title": "Mount Samaria State Park",
+        "latitude": "-36.8881081",
+        "longitude": "146.0472969"
+    },
+    {
+        "title": "Mount Richmond National Park",
+        "latitude": "-38.2640792",
+        "longitude": "141.4269776"
+    },
+    {
+        "title": "Mount Napier State Park",
+        "latitude": "-37.8933333",
+        "longitude": "142.0580556"
+    },
+    {
+        "title": "Mount Lawson State Park",
+        "latitude": "-36.039624",
+        "longitude": "147.4287899"
+    },
+    {
+        "title": "Mount Granya State Park",
+        "latitude": "-36.119746",
+        "longitude": "147.287573"
+    },
+    {
+        "title": "Mount Buffalo National Park",
+        "latitude": "-36.7333333",
+        "longitude": "146.7833333"
+    },
+    {
+        "title": "Mount Buangor State Park",
+        "latitude": "-37.3130111",
+        "longitude": "143.2029784"
+    },
+    {
+        "title": "Mount Arapiles-Tooan State Park",
+        "latitude": "-36.786039",
+        "longitude": "141.7150537"
+    },
+    {
+        "title": "Morwell National Park",
+        "latitude": "-38.366231",
+        "longitude": "146.3927783"
+    },
+    {
+        "title": "Mornington Peninsula National Park",
+        "latitude": "-38.4689425",
+        "longitude": "144.9225443"
+    },
+    {
+        "title": "Moondarra State Park",
+        "latitude": "-38.0387286",
+        "longitude": "146.309849"
+    },
+    {
+        "title": "Mitchell River National Park",
+        "latitude": "-37.6666103",
+        "longitude": "147.3185921"
+    },
+    {
+        "title": "Lower Goulburn National Park",
+        "latitude": "-36.1669709",
+        "longitude": "145.2073035"
+    },
+    {
+        "title": "Lower Glenelg National Park",
+        "latitude": "-38.0533624",
+        "longitude": "141.2255977"
+    },
+    {
+        "title": "Little Desert National Park",
+        "latitude": "-36.5067846",
+        "longitude": "141.7794228"
+    },
+    {
+        "title": "Lind National Park",
+        "latitude": "-37.5761245",
+        "longitude": "148.9607564"
+    },
+    {
+        "title": "Lerderderg State Park",
+        "latitude": "-37.4378983",
+        "longitude": "144.2813213"
+    },
+    {
+        "title": "Leaghur State Park",
+        "latitude": "-35.9228206",
+        "longitude": "143.8074517"
+    },
+    {
+        "title": "Langi Ghiran State Park",
+        "latitude": "-37.3171744",
+        "longitude": "143.0996486"
+    },
+    {
+        "title": "Lake Eildon National Park",
+        "latitude": "-37.3585374",
+        "longitude": "145.9302897"
+    },
+    {
+        "title": "Kooyoora State Park",
+        "latitude": "-36.5996573",
+        "longitude": "143.7043819"
+    },
+    {
+        "title": "Kinglake National Park",
+        "latitude": "-37.4062074",
+        "longitude": "145.2038278"
+    },
+    {
+        "title": "Kara Kara National Park",
+        "latitude": "-36.8583087",
+        "longitude": "143.2702234"
+    },
+    {
+        "title": "Holey Plains State Park",
+        "latitude": "-38.2238438",
+        "longitude": "146.9323531"
+    },
+    {
+        "title": "Heathcote-Graytown National Park",
+        "latitude": "-36.8276945",
+        "longitude": "144.8145815"
+    },
+    {
+        "title": "Hattah &#8211; Kulkyne National Park",
+        "latitude": "-34.7711842",
+        "longitude": "142.3867901"
+    },
+    {
+        "title": "Gunbower National Park",
+        "latitude": "-35.8598117",
+        "longitude": "144.3716274"
+    },
+    {
+        "title": "Greater Bendigo National Park",
+        "latitude": "-36.6265127",
+        "longitude": "144.2840481"
+    },
+    {
+        "title": "Great Otway National Park",
+        "latitude": "-38.7912177",
+        "longitude": "143.5419225"
+    },
+    {
+        "title": "Grampians National Park",
+        "latitude": "-37.2108819",
+        "longitude": "142.3979571"
+    },
+    {
+        "title": "French Island National Park",
+        "latitude": "-38.3489348",
+        "longitude": "145.3364703"
+    },
+    {
+        "title": "Errinundra National Park",
+        "latitude": "-37.3391321",
+        "longitude": "148.8408061"
+    },
+    {
+        "title": "Enfield State Park",
+        "latitude": "-37.7533249",
+        "longitude": "143.7477629"
+    },
+    {
+        "title": "Dergholm State Park",
+        "latitude": "-37.3705556",
+        "longitude": "141.2938889"
+    },
+    {
+        "title": "Dandenong Ranges National Park",
+        "latitude": "-37.8609139",
+        "longitude": "145.3476395"
+    },
+    {
+        "title": "Croajingolong National Park",
+        "latitude": "-37.7310244",
+        "longitude": "149.4376371"
+    },
+    {
+        "title": "Coopracambra National Park",
+        "latitude": "-37.3178131",
+        "longitude": "149.3570009"
+    },
+    {
+        "title": "Cobboboonee National Park",
+        "latitude": "-38.1068096",
+        "longitude": "141.4436581"
+    },
+    {
+        "title": "Churchill National Park",
+        "latitude": "-37.9514306",
+        "longitude": "145.2513648"
+    },
+    {
+        "title": "Chiltern-Mt Pilot National Park",
+        "latitude": "-36.252077",
+        "longitude": "146.6709024"
+    },
+    {
+        "title": "Cathedral Range State Park",
+        "latitude": "-37.3770531",
+        "longitude": "145.7601184"
+    },
+    {
+        "title": "Cape Nelson State Park",
+        "latitude": "-38.4220851",
+        "longitude": "141.5387851"
+    },
+    {
+        "title": "Burrowa &#8211; Pine Mountain National Park",
+        "latitude": "-36.1014886",
+        "longitude": "147.7177049"
+    },
+    {
+        "title": "Bunyip State Park",
+        "latitude": "-37.9369311",
+        "longitude": "145.7466791"
+    },
+    {
+        "title": "Budj Bim National Park",
+        "latitude": "-38.0844673",
+        "longitude": "141.9051241"
+    },
+    {
+        "title": "Broken-Boosey State Park",
+        "latitude": "-36.122507",
+        "longitude": "145.5787891"
+    },
+    {
+        "title": "Brisbane Ranges National Park",
+        "latitude": "-37.8459801",
+        "longitude": "144.0766524"
+    },
+    {
+        "title": "Black Range State Park",
+        "latitude": "-37.103384",
+        "longitude": "142.082748"
+    },
+    {
+        "title": "Baw Baw National Park",
+        "latitude": "-37.8618147",
+        "longitude": "146.3262985"
+    },
+    {
+        "title": "Barmah National Park",
+        "latitude": "-35.9773115",
+        "longitude": "144.9934388"
+    },
+    {
+        "title": "Arthurs Seat State Park",
+        "latitude": "-38.3526664",
+        "longitude": "144.9497222"
+    },
+    {
+        "title": "Alpine National Park",
+        "latitude": "-36.9402665",
+        "longitude": "147.2389081"
+    },
+    {
+        "title": "Alfred National Park",
+        "latitude": "-37.5568641",
+        "longitude": "149.3627529"
+    }
+]
